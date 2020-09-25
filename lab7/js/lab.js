@@ -13,10 +13,10 @@ function sortUserName() {
 
   //join array back to a string
   var nameSorted = nameArraySort.join('');
-  console.log("nameSorted =", nameSorted);
+  console.log("nameSorted =" + nameSorted);
   return nameSorted;
 }
 
 //Output
-document.writeln("Here's your new name!")
-  sortUserName(), "</br>";
+document.writeln("Here's your new name!",
+  sortUserName(), "</br>");
