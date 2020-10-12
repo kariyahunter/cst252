@@ -1,3 +1,9 @@
+/*
+ *  Author: Kariya Hunter <karhunter@csumb.edu>
+ * Created: 14 September
+ * Licence: Public Domain
+*/
+
 function firstThing(test) {
 	console.log(test + ": This is the First Thing. <br>")
 }
