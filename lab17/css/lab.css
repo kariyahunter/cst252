@@ -85,5 +85,16 @@ button {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  background-color: green;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.lightblue {
+  background-color: lightblue;
+}
+
+.lightgreen {
+  background-color: lightgreen;
 }
