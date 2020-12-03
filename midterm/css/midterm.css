@@ -30,8 +30,12 @@ img{
 }
 
 .thing1 {
+  position: absolute;
   display: block;
-  padding-left: 550px;
+  left: -50px;
+  top: 500px;
+  z-index: -1;
+
 }
 
 .thing1, .hoverable {
@@ -59,4 +63,39 @@ h1 {
   font-size: 75px;
   background-color: #3495bf;
   color: white;
+}
+
+.img2 {
+  display: block;
+  position: absolute;
+  left: 500px;
+  top: 700px;
+}
+
+.img3 {
+  display: block;
+  position: absolute;
+  left: 1000px;
+  top: 950px;
+}
+
+.img4 {
+  display: block;
+  position: absolute;
+  left: 810px;
+  top: 500px;
+}
+
+.img5 {
+  display: block;
+  position: absolute;
+  left: 800px;
+  top: 1300px;
+}
+
+.img6 {
+  display: block;
+  position: absolute;
+  left: 400px;
+  top: 1300px;
 }
