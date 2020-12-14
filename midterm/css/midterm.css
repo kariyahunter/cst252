@@ -19,7 +19,7 @@ img{
   width: 500px;
   left: 200px;
   border: solid 2px darkblue;
-  visibility: visible;
+  visibility: hidden;
   background-color: white;
   border-radius: 8px;
   margin-left: 570px;
